@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  <Post Title>
-date:   <year-month-day>
+title:  "news"
+date:   2024-11-26
 categories: news
 ---
 
